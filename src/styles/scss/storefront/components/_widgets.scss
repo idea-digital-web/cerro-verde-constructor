@@ -74,7 +74,7 @@
 
 		input[type=search] {
 			order: 2;
-			border-radius: 15px;
+			// border-radius: 15px;
 		}
 
 		// Botón Buscar Ir a woocommerce.scss
@@ -82,7 +82,7 @@
 			@include screen-reader-text();
 			top: 0;
 			left: 0;
-			border-radius: 15px;
+			// border-radius: 15px;
 			// position: relative !important;
 			// margin-right: 0.5rem;
 			// padding: 0.5rem 2.5rem;
@@ -98,8 +98,8 @@
 			position: absolute;
 			top: 1em;
 			left: 1em;
-			border-radius: 15px;
 			font-family: $base-font;
+			// border-radius: 15px;
 			// font-size: 1.5rem;
 			// display: none;
 		}
