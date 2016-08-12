@@ -436,9 +436,10 @@ ul.products {
 		 	width: 90%;
 			margin-left: auto;
 			margin-right: auto;
-		 	border: 2px solid $black;
-		 	color: $black;
+		 	border: 2px solid $third-theme-color;
+		 	color: $white;
 		 	text-transform: uppercase;
+		 	background-color: $third-theme-color;
 		 	@include respond-to(md) {
 		 		margin-top: 1rem;
 		 		padding: 1rem 2rem;
@@ -2012,7 +2013,7 @@ dl.variation {
 				content: "\f291";
 				line-height: 54px;
 				font-size: 2rem;
-				color: $color-theme;
+				color: $third-theme-color;
 			}
 
 			.amount {
