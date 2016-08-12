@@ -3,7 +3,7 @@ import selectivizr from './vendors/selectivizr.js'
 import flexslider from './vendors/jquery.flexslider.js'
 import tipsy from './vendors/jquery.tipsy.js'
 import menuDropdown from './lib/menuDropdown'
-import addBorderBottom from './lib/addBorderBottom'
+// import addBorderBottom from './lib/addBorderBottom'
 import customTipsy from './lib/customTipsy'
 import flexsliderPrincipal from './lib/flexsliderPrincipal'
 import addFlexsliderProducts from './lib/addFlexsliderProducts'
@@ -22,7 +22,7 @@ import customStickyNavbar from './lib/customStickyNavbar'
     flexslider()
     tipsy()
     menuDropdown()
-    addBorderBottom()
+    // addBorderBottom()
     customTipsy()
     flexsliderPrincipal()
     addFlexsliderProducts()
