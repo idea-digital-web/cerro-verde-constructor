@@ -72,6 +72,8 @@ h4 {
     font-style: italic !important;
     font-weight: 300 !important;
     font-size: 1.8rem;
+    background: url('images/bg-heading.png');
+    background-repeat: no-repeat;
     color: $white;
     padding-left: 1.5rem;
     @include respond-to(md) {

@@ -3,11 +3,6 @@
  * Custom Contenido
  *-----------------------------------------------------------------------------------------
  */
-.col-1>h2,
-.col-2>h2{
-	@extend .section_title;
-	color: $black;
-}
 header.entry-header>h1.entry-title,
 header.page-header>h1.page-title,
 main.site-main>h1.page-title,
@@ -15,13 +10,27 @@ main.site-main>h2.section-title,
 .related.products>h2,
 .cross-sells>h2,
 .up-sells>h2,
+// .col-1>h2,
+// .col-2>h2,
 .page-content>h2{
-	background: url('images/bg-heading.png');
-	background-repeat: no-repeat;
 	@extend .section_title;
 }
 .cross-sells>h2{
 	font-size: 1.65rem;
+}
+.col-1>h2,
+.col-2>h2{
+    text-align: left;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    font-style: italic !important;
+    font-weight: 300 !important;
+    font-size: 1.8rem;
+    color: $black !important;
+    padding-left: 1.5rem;
+    @include respond-to(md) {
+        font-size: 2.2rem;
+    }
 }
 
 // Borde inferior de los títulos de las secciones
