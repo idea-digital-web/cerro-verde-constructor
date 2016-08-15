@@ -6,6 +6,7 @@
 .col-1>h2,
 .col-2>h2{
 	@extend .section_title;
+	color: $black;
 }
 header.entry-header>h1.entry-title,
 header.page-header>h1.page-title,
