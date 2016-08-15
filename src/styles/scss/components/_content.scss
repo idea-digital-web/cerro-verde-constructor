@@ -3,6 +3,10 @@
  * Custom Contenido
  *-----------------------------------------------------------------------------------------
  */
+.col-1>h2,
+.col-2>h2{
+	@extend .section_title;
+}
 header.entry-header>h1.entry-title,
 header.page-header>h1.page-title,
 main.site-main>h1.page-title,
@@ -10,9 +14,9 @@ main.site-main>h2.section-title,
 .related.products>h2,
 .cross-sells>h2,
 .up-sells>h2,
-// .col-1>h2,
-// .col-2>h2,
 .page-content>h2{
+	background: url('images/bg-heading.png');
+	background-repeat: no-repeat;
 	@extend .section_title;
 }
 .cross-sells>h2{
