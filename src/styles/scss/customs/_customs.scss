@@ -65,20 +65,23 @@ h4 {
     }
 }
 
-.section_title{
+.custom_title{
     text-align: left;
     margin-bottom: 0.5rem;
     text-transform: uppercase;
     font-style: italic !important;
     font-weight: 300 !important;
     font-size: 1.8rem;
-    background: url('images/bg-heading.png');
-    background-repeat: no-repeat;
-    color: $white;
     padding-left: 1.5rem;
     @include respond-to(md) {
         font-size: 2.2rem;
     }
+}
+.section_title{
+    background: url('images/bg-heading.png');
+    background-repeat: no-repeat;
+    color: $white;
+    @extend .custom_title;
 }
 .title__borderbottom{
     display: flex;

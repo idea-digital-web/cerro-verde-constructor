@@ -10,8 +10,6 @@ main.site-main>h2.section-title,
 .related.products>h2,
 .cross-sells>h2,
 .up-sells>h2,
-// .col-1>h2,
-// .col-2>h2,
 .page-content>h2{
 	@extend .section_title;
 }
@@ -20,17 +18,7 @@ main.site-main>h2.section-title,
 }
 .col-1>h2,
 .col-2>h2{
-    text-align: left;
-    margin-bottom: 0.5rem;
-    text-transform: uppercase;
-    font-style: italic !important;
-    font-weight: 300 !important;
-    font-size: 1.8rem;
-    color: $black !important;
-    padding-left: 1.5rem;
-    @include respond-to(md) {
-        font-size: 2.2rem;
-    }
+	@extend .custom_title;
 }
 
 // Borde inferior de los títulos de las secciones
