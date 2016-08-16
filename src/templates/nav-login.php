@@ -35,8 +35,7 @@
 		<?php } else {?>
 		<div class="site-header_nav--login">
 			<a href="<?php home_url();?>/index.php/mi-cuenta" title="">
-				<i class="fa fa-sign-in"></i>
-				<i class="icon-signin"></i>Iniciar Sesión / Registrarse
+				<i class="fa fa-sign-in"></i>Iniciar Sesión / Registrarse
 			</a>
 		</div>
 		<?php };?>
