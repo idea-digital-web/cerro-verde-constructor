@@ -474,6 +474,12 @@ ul.products {
 			margin-top: 0;
 		}
 
+		.summary{
+			>ul>li{
+				list-style-type: circle;
+			}
+		}
+
 		.images {
 			.woocommerce-main-image {
 				margin-bottom: 1.618em;
