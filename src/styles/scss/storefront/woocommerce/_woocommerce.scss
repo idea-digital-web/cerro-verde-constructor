@@ -478,6 +478,7 @@ ul.products {
 			.woocommerce-main-image {
 				margin-bottom: 1.618em;
 				display: block;
+				border: 1px solid grey;
 			}
 
 			.thumbnails {
@@ -487,6 +488,7 @@ ul.products {
 					margin-right: 3.8%;
 					float: left;
 					margin-bottom: 1em;
+					border: 1px solid grey;
 
 					&.last {
 						margin-right: 0;
