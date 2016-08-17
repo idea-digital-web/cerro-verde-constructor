@@ -55,6 +55,10 @@
 			>i.fa-mobile{
 				font-size: 150%;
 			}
+			&:last-child{
+				color: $white;
+				margin-top: 1.5rem;
+			}
 		}
 		&--nav{
 			ul.site-footer__item--nav-categories{

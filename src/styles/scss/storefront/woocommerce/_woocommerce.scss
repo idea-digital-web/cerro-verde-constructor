@@ -708,6 +708,7 @@ a.reset_variations {
 	margin-bottom: 1.618em;
 	font-size: .857em;
 	padding: 1em 1.387rem;
+	background: none;
 
 	a {
 		@include underlinedLink();
