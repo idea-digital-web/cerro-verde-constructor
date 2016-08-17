@@ -2010,7 +2010,7 @@ dl.variation {
 			&:after {
 				@include fa-icon();
 				float: right;
-				content: "\f291";
+				content: "\f290"; //"\f290";
 				line-height: 54px;
 				font-size: 2rem;
 				color: $third-theme-color;
