@@ -475,7 +475,7 @@ ul.products {
 		}
 
 		.summary{
-			>ul>li{
+			>div>ul>li{
 				list-style-type: circle;
 			}
 		}
@@ -484,7 +484,7 @@ ul.products {
 			.woocommerce-main-image {
 				margin-bottom: 1.618em;
 				display: block;
-				border: 1px solid grey;
+				border: 1px solid lightgray;
 			}
 
 			.thumbnails {
@@ -494,7 +494,7 @@ ul.products {
 					margin-right: 3.8%;
 					float: left;
 					margin-bottom: 1em;
-					border: 1px solid grey;
+					border: 1px solid lightgray;
 
 					&.last {
 						margin-right: 0;
