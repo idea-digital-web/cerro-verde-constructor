@@ -36,8 +36,8 @@
 			margin-top: 1.618em;
 		}
 		& i{
-			margin-right: 0.5rem;
-			margin-left: 0.5rem;
+			// margin-right: 0.5rem;
+			// margin-left: 0.5rem;
 		}
 		& a{
 			color: $white !important;
@@ -47,13 +47,19 @@
 			}
 		}
 		&--contact{
-			padding: 0 1rem;
-			font-size: 1.2rem;
-			>i.fa-envelope::before{
+			padding-left: 1rem;
+			// font-size: 1.2rem;
+			>i{
 				margin-right: 0.5rem;
+				&.fa-mobile{
+					font-size: 150%;
+				}
+				// &.fa-envelope::before{
+				// 	margin-right: 0.5rem;
+				// }
 			}
-			>i.fa-mobile{
-				font-size: 150%;
+			>span.email{
+				font-size: 96%;
 			}
 			&:last-child{
 				color: $white;
