@@ -1,3 +1,15 @@
+commit 177d98df35de7866929fb7f4fe1da45a23125d6b
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Aug 19 11:49:16 2016 -0400
+
+    Actualizado imagemin
+
+commit b4874306148624d960bed840fda6bf573845b548
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Aug 19 10:19:19 2016 -0400
+
+    Probando error
+
 commit 6f211b61c7fc37a233b09e1e315fb8b131709a0d
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Aug 18 15:24:37 2016 -0400
