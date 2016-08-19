@@ -1,3 +1,9 @@
+commit 83b6179cf4aba2db2e455a06d45dac05d9479343
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Aug 19 15:50:24 2016 -0400
+
+    Agregado borde a los formatos de registros
+
 commit 833c444a0304de8a5d8df8fbaa19def2f4679d70
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Aug 19 15:07:38 2016 -0400
