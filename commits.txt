@@ -1,3 +1,9 @@
+commit ed52aeb315bd052e42188d7313d712985dde5cf9
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Aug 19 16:25:15 2016 -0400
+
+    Arreglado color del texto en hover del menu principal
+
 commit 83b6179cf4aba2db2e455a06d45dac05d9479343
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Aug 19 15:50:24 2016 -0400
