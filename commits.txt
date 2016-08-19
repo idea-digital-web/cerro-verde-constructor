@@ -1,3 +1,9 @@
+commit 409d894aa573481396be0d95925e313da89708a3
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Fri Aug 19 17:53:50 2016 -0400
+
+    Customizando field billing
+
 commit ed52aeb315bd052e42188d7313d712985dde5cf9
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Aug 19 16:25:15 2016 -0400
