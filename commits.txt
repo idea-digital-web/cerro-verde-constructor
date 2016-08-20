@@ -1,3 +1,9 @@
+commit eb206c619808419aa8478c3de6989754aadaa261
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Sat Aug 20 10:03:58 2016 -0400
+
+    Agregando compresion de php para prueba
+
 commit ad0d242d442b9e0c119712a9eb82144af19c7fff
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sat Aug 20 10:02:01 2016 -0400
