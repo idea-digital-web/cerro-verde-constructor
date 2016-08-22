@@ -1,3 +1,9 @@
+commit 02d7f626d78b430caa256b86d540435fbb517947
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 22 14:18:54 2016 -0400
+
+    Mejorado single con hooks
+
 commit f53ef4167b9f0c85ba1ba5cdf3e4d5f3d8e53eff
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Aug 22 13:20:02 2016 -0400
