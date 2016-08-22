@@ -1,3 +1,9 @@
+commit 4ae779d5bcb32e4d0cc405d856867a9677d758e9
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 22 13:17:23 2016 -0400
+
+    Add alt tags to img
+
 commit 5f5719c1c3cc6a2195cd8153149fc10b702b4e50
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Aug 22 11:52:09 2016 -0400
