@@ -1,3 +1,9 @@
+commit fa58488fca5743e1ee83907d44f966a9d21de588
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 22 07:26:32 2016 -0400
+
+    Eliminado google ads script
+
 commit f5b92fea1b03cb8b4d813202533aacca347c80f2
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Sun Aug 21 22:06:26 2016 -0400
