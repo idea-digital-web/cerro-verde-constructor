@@ -29,9 +29,6 @@
 	<h2>
 	Mensaje Directo
 	</h2>
-	<!-- IdeaDigital -->
-	<?php if (function_exists("add_formcraft_form")) { add_formcraft_form("[fc id='5'][/fc]"); } ?>
-	<!-- Localhost -->
 	<?php if (function_exists("add_formcraft_form")) { add_formcraft_form("[fc id='1'][/fc]"); } ?>
 </div>
 <div class="site-footer__item">
@@ -42,10 +39,10 @@
 		<i class="fa fa-phone"></i>
 		<span><?php get_template_part( 'templates/add', 'phone'); ?></span>
 	</div>
-	<div class="site-footer__item--contact">
+<!-- 	<div class="site-footer__item--contact">
 		<i class="fa fa-mobile"></i>
 		<span><?php get_template_part( 'templates/add', 'mobile'); ?></span>
-	</div>
+	</div> -->
 	<div class="site-footer__item--contact">
 		<i class="fa fa-whatsapp" aria-hidden="true"></i>
 		<span><?php get_template_part( 'templates/add', 'whatsapp'); ?></span>
