@@ -1,3 +1,15 @@
+commit d3614fe54cea94f07403ef7754b9e4057a15aa37
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 29 17:58:05 2016 -0400
+
+    Cambiado redes sociales
+
+commit f6425bd0f68d0dfc6f20d0cab90600158374a4f1
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Aug 29 14:47:23 2016 -0400
+
+    Verificando propiedad y analitycs
+
 commit 3767192c60f23d288bd82bd3aacedf3d191d6ef2
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Fri Aug 26 16:39:25 2016 -0400
