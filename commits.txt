@@ -1,3 +1,9 @@
+commit 170587940e66b2b1f7047990a24d7fa9013f7f47
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Tue Aug 30 11:19:35 2016 -0400
+
+    Cambiadas urls de imagenes
+
 commit 4187f5ce787a284d3d650b3b2ceb3422c784a3b8
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Mon Aug 29 17:58:55 2016 -0400
