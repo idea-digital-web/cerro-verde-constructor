@@ -1,3 +1,9 @@
+commit fa702043f0982f7e42a7c28fbf29ccd781c842ac
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Thu Sep 15 11:41:30 2016 -0400
+
+    optimizado footer fromcraft
+
 commit 3544a2d13b2662a2c0d0f31d957d9bdc0585a14d
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Sep 15 10:39:39 2016 -0400
