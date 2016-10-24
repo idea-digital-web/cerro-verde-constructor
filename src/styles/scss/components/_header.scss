@@ -105,7 +105,7 @@ Custom HEADER
 			}
 			&:nth-child(1){
 				@include respond-to(lg) {
-					width: 38%;
+					width: 25%;
 				}
 			}
 		}
